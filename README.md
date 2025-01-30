@@ -73,4 +73,4 @@ The Doctor-Patient Appointment System is a web-based platform designed to facili
 - Due to GitHub-related problems, deployment was one of the more difficult parts, but it provided valuable instructional moments.
 - I was able to get an address as a result, but I was unable to connect the frontend and backend. due to having created them independently for the first time.
 - I believe I could figure it out if I had more time. I therefore made the decision to work on a related project from scratch during the break. The knowledge I gained from the course   has given me the determination to achieve this.
-![text](documentation.png)
+![text](deploy_fail.png)
