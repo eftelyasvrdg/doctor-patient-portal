@@ -17,6 +17,21 @@ The Doctor-Patient Appointment System is a web-based platform designed to facili
 - **Cloud Deployment:** Google Cloud (Cloud Run, Firebase Hosting)  
 
 ---
+
+## **Databases**  
+- doctors - patients - appointments - reviews
+- comments aren't kept in the reviews database instead is kept in a No Sql database.
+- There is no direct relationship between doctors and patients.Instead, they are linked through the appointments table.
+One doctor can have many appointments with different patients.
+One patient can have many appointments with different doctors.
+- Each doctor can have multiple appointments.
+Each appointment is associated with one doctor.
+- One doctor can receive multiple reviews from different patients.
+Each review is linked to one doctor.
+- A doctor cannot exist without a specialization and verification.A patient cannot exist without an email and name. An appointment requires both a doctor and a patient.A review is only created if an appointment exists.Cascading delete ensures data consistency.
+- ![](databases.png)
+
+---
 ## **Learning Outcomes**  
 
 ### **Database Management**  
