@@ -34,6 +34,7 @@ The Doctor-Patient Appointment System is a web-based platform designed to facili
 - Deployed the **backend** on **Google Cloud Run** with a Docker container.  
 - Configured **Google Cloud Scheduler** for background tasks.
 - I downloaded something by accident and erased it, which is regrettably how the deployment process went. I had significant problems with it. Which I will address below.
+- The reason I liked using Google Maps, or more accurately, Google Cloud in general, was that everything was accessible from its own sources without looking for a different source.
 
 ### **Problem-Solving**  
 - Implemented caching with **Redis** to reduce load on the database.  
@@ -59,7 +60,7 @@ The Doctor-Patient Appointment System is a web-based platform designed to facili
 **Review System
 ✅ Patients can rate doctors after their appointments
 ✅ Inappropriate language in reviews is automatically filtered
-✅ Reviews are stored in a NoSQL database (Cloud Firestore or MongoDB Atlas)
+✅ Reviews are stored in a NoSQL database
 
 **System Notifications
 ✅ Incomplete Appointment Notification: If a patient signs in but doesn’t complete an appointment, they receive a daily reminder
@@ -74,6 +75,10 @@ The Doctor-Patient Appointment System is a web-based platform designed to facili
 - I was able to get an address as a result(https://doctor-patient-portal-624117525458.us-central1.run.app ), but I was unable to connect the frontend and backend. due to having created them independently for the first time.
 - I believe I could figure it out if I had more time. I therefore made the decision to work on a related project from scratch during the break. The knowledge I gained from the course has given me the determination to achieve this.
 ![text](deploy_fail.png)
+
+### **Understanding how to configure backend and frontend**
+- I have never completed a project this comprehensive before. I had previously solely used NextJs for this purpose in the project where you gave me the chance to study, but I didn't want to use it here.
+- If I could start over, I would have taken another pathway because I had to overcome a lot of challenges because of my 3rd grade knowledge and time restrictions.
 
 ---
 ## **Conclusion**  
