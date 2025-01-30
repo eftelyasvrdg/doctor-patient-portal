@@ -1,4 +1,4 @@
-# **Doctor Appointment System - Project Documentation**  
+# **Doctor - Patient Portal  - Project Documentation**  
 ---
 
 ## **Overview**  
@@ -87,5 +87,4 @@ Working on the **Doctor Appointment System** has significantly enhanced my under
 
 Deploying the system on **Google Cloud** allowed me to learn about **Cloud Run, Cloud SQL**, while working with **RabbitMQ** to asynchronous task handling. Despite facing challenges in **integrating cloud services and optimizing API responses**, I was able to debug and resolve most of the issues effectively.
 
-This project has strengthened my ability to **choose the right technologies** for different system components. Beyond building functional APIs, I also improved my skills in **system architecture and error handling**.The knowledge and skills gained here will undoubtedly help me in future projects, particularly in **full-stack development and cloud-based application deployment**. 🚀  
-
+This project has strengthened my ability to **choose the right technologies** for different system components. Beyond building functional APIs, I also improved my skills in **system architecture and error handling**.The knowledge and skills gained here will undoubtedly help me in future projects, particularly in **full-stack development and cloud-based application deployment**. 
