@@ -33,7 +33,7 @@ The Doctor-Patient Appointment System is a web-based platform designed to facili
 ### **Cloud Deployment**  
 - Deployed the **backend** on **Google Cloud Run** with a Docker container.  
 - Configured **Google Cloud Scheduler** for background tasks.
-- I downloaded something by accident and erased it, which is regrettably how the deployment process went. I had significant problems with it. Which I will address below. 
+- I downloaded something by accident and erased it, which is regrettably how the deployment process went. I had significant problems with it. Which I will address below.
 
 ### **Problem-Solving**  
 - Implemented caching with **Redis** to reduce load on the database.  
@@ -71,6 +71,6 @@ The Doctor-Patient Appointment System is a web-based platform designed to facili
 ## Challenges
 ### **Google Deployment**
 - Due to GitHub-related problems, deployment was one of the more difficult parts, but it provided valuable instructional moments.
-- I was able to get an address as a result, but I was unable to connect the frontend and backend. due to having created them independently for the first time.
-- I believe I could figure it out if I had more time. I therefore made the decision to work on a related project from scratch during the break. The knowledge I gained from the course   has given me the determination to achieve this.
+- I was able to get an address as a result(https://doctor-patient-portal-624117525458.us-central1.run.app ), but I was unable to connect the frontend and backend. due to having created them independently for the first time.
+- I believe I could figure it out if I had more time. I therefore made the decision to work on a related project from scratch during the break. The knowledge I gained from the course has given me the determination to achieve this.
 ![text](deploy_fail.png)
