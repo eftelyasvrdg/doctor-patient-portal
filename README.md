@@ -74,3 +74,13 @@ The Doctor-Patient Appointment System is a web-based platform designed to facili
 - I was able to get an address as a result(https://doctor-patient-portal-624117525458.us-central1.run.app ), but I was unable to connect the frontend and backend. due to having created them independently for the first time.
 - I believe I could figure it out if I had more time. I therefore made the decision to work on a related project from scratch during the break. The knowledge I gained from the course has given me the determination to achieve this.
 ![text](deploy_fail.png)
+
+---
+## **Conclusion**  
+
+Working on the **Doctor Appointment System** has significantly enhanced my understanding of API development, and cloud deployment. Throughout this project, I gained hands-on experience in designing **scalable and efficient database schemas**, implementing **secure authentication mechanisms**, and optimizing **API performance** using caching and queuing solutions.
+
+Deploying the system on **Google Cloud** allowed me to learn about **Cloud Run, Cloud SQL**, while working with **RabbitMQ** to asynchronous task handling. Despite facing challenges in **integrating cloud services and optimizing API responses**, I was able to debug and resolve most of the issues effectively.
+
+This project has strengthened my ability to **choose the right technologies** for different system components. Beyond building functional APIs, I also improved my skills in **system architecture and error handling**.The knowledge and skills gained here will undoubtedly help me in future projects, particularly in **full-stack development and cloud-based application deployment**. 🚀  
+
