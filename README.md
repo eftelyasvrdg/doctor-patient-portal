@@ -38,8 +38,8 @@ The Doctor-Patient Appointment System is a web-based platform designed to facili
 ### **Problem-Solving**  
 - Implemented caching with **Redis** to reduce load on the database.  
 - Implemented a fallback mechanism for **RabbitMQ** in case of failure.
-- One of the course's greatest contributions was the backend, which I finished using Swagger to verify before linking it to the frontend.
-
+- One of the course's greatest contributions was the backend, which I finished using **Swagger** to verify before linking it to the frontend.
+![text](swagger-register-doctor.png)
 ---
 
 ### Core Features
